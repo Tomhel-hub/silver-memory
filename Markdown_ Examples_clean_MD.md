@@ -1,15 +1,16 @@
-#### ![Cover](https://dl.dropboxusercontent.com/scl/fi/nt3vnaksrv7uhtjyuvr3s/Image_001.jpg?rlkey=sethqvtl7lfyvcv0ghcld4j6c&st=t0ssnyer&dl=0)
+<a id="Cover"></a>
+![Cover](https://dl.dropboxusercontent.com/scl/fi/nt3vnaksrv7uhtjyuvr3s/Image_001.jpg?rlkey=sethqvtl7lfyvcv0ghcld4j6c&st=t0ssnyer&dl=0)
 
 
-
-#### ![titlepage](https://dl.dropboxusercontent.com/scl/fi/zljnd6clhpm8py4gvpvj9/Image_002.jpg?rlkey=0xid1iz928atf8v0xhbefuq6i&st=9bzb31z7&dl=0)
+<a id="titlepage"></a>  
+![titlepage](https://dl.dropboxusercontent.com/scl/fi/zljnd6clhpm8py4gvpvj9/Image_002.jpg?rlkey=0xid1iz928atf8v0xhbefuq6i&st=9bzb31z7&dl=0)
  
 
+<a id="Copyright"></a>
 
+English translation copyright © 2014 by Yuval Noah Harari  
 
-<a id="Copyright"></a>English translation copyright © 2014 by Yuval Noah Harari  
-
-.center[Cloth edition published 2014 Published simultaneously in the United Kingdom by Harvill Seeker First published in Hebrew in Israel in 2011 by Kinneret,Zmora-Bitan, Dvir]  
+Cloth edition published 2014 Published simultaneously in the United Kingdom by Harvill Seeker First published in Hebrew in Israel in 2011 by Kinneret,Zmora-Bitan, Dvir 
 
 Signal Books is an imprint of McClelland & Stewart, a division of Random House of Canada Limited, a Penguin Random House Company  
 
@@ -41,7 +42,9 @@ v3.1
 
 ____________
 
-<a id="Dedication"></a>In loving memory of my father, Shlomo Harari
+<a id="Dedication"></a>
+
+In loving memory of my father, Shlomo Harari
 
 ________
 
