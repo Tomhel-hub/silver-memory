@@ -1,5 +1,4 @@
-# silver-memory
-Convert Scanned Books from TXT/PDF to Markdown
+# Convert Scanned Books from TXT/PDF to Markdown
 # Markdown Book Sample: *Sapiens – A Brief History of Humankind*
 
 This repository contains a sample conversion of selected pages (pp. 1–9, 301) from the book *Sapiens* by Yuval Noah Harari into Markdown format. The goal is to demonstrate advanced data cleaning and formatting skills when working with unstructured PDF content, particularly scanned or OCR-generated documents.
