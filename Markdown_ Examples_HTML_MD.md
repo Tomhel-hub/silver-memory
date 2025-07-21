@@ -152,7 +152,7 @@ ________
 
 <a id="1.Image"></a> [**1.**](#1.Meaning) A human handprint made about 30,000 years ago, on the wall of the Chauvet-Pont-d’Arc Cave in southern France, Somebody tried to say, ‘I was here! ’
 
-<h2 align="center"><span color="gray">1></span></h2>
+<h2 align="center"><span color="gray">1</span></h2>
 
 <h2 align="center"><span style="color:orange">An Animal of No Significance</span></h2>
 
