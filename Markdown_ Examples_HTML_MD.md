@@ -9,7 +9,7 @@
 
 <a id="Copyright"></a>
 
-<p align="center;">English translation copyright © 2014 by Yuval Noah Harari <br></p>  
+<p align="center">English translation copyright © 2014 by Yuval Noah Harari <br></p>  
 <p><br>
 Cloth edition published 2014  <br>
 Published simultaneously in the United Kingdom by Harvill Seeker First published in Hebrew in Israel in 2011 by Kinneret,
