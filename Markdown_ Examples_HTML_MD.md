@@ -170,9 +170,9 @@ About 70,000 years ago, organisms belonging to the species *Homo sapiens* starte
 
 <a id="Part Two"></a>  
 
-<h2 align="center"><span style="color:red">Part Two</h2>
+<h2 align="center"><span style="color:red">Part Two</span></h2>
 
-<h2 align="center"><span style="color:grey">The Agricultural Revolution </h2>
+<h2 align="center"><span style="color:grey">The Agricultural Revolution </span></h2>
 
 
 ![](https://dl.dropboxusercontent.com/scl/fi/v5cxzdcwiv12p6f2qj0w6/Image_020.jpg?rlkey=ln4dw363f9v0uiq8womooz86w&st=1qhx75mo&dl=0)
