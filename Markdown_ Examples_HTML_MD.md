@@ -110,7 +110,7 @@ ________
 
  
 <a id="Timeline-of-history"></a>  
-<span style="color: #A9A9A9;">This text is blue using HTML.</span>
+<h2 align="center" color="red">This text is blue using HTML.</h2>
 <h2><span style="align: center; color: red;">Timeline of History</span></h2>
 
 *Years*
