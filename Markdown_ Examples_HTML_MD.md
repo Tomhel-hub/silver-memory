@@ -63,11 +63,11 @@ ____________
 
 <a id="Dedication"></a>
 
-<p style = "text-align: center;">In loving memory of my father, Shlomo Harari</p>
+<p align="center">In loving memory of my father, Shlomo Harari</p>
 
 ________
 
-<h2 style = "text-align: center;">Contents</h2> 
+<h2 align="center">Contents</h2> 
 
 
 
