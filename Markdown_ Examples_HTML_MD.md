@@ -152,9 +152,9 @@ ________
 
 <a id="1.Image"></a> [**1.**](#1.Meaning) A human handprint made about 30,000 years ago, on the wall of the Chauvet-Pont-d’Arc Cave in southern France, Somebody tried to say, ‘I was here! ’
 
-<h2 align="center"><span color="gray">1</h2>
+<h2 align="center"><span color="gray">1></span></h2>
 
-<h2 align="center"><span style="color:orange">An Animal of No Significance</h2>
+<h2 align="center"><span style="color:orange">An Animal of No Significance</span></h2>
 
 ABOUT 13.5 BILLION YEARS AGO, MATTER, energy, time and space came into being in what is known as the Big Bang. The story of these fundamental features of our universe is called physics.
 
