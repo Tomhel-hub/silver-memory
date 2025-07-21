@@ -111,7 +111,7 @@ ________
  
 <a id="Timeline-of-history"></a>  
 
-<h2 align="center" color = "#A9A9A9">Timeline of History</h2>
+<h2><span style="align: center"; color: #A9A9A9">Timeline of History</span></h2>
 
 *Years*
 
