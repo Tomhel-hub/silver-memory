@@ -2,8 +2,6 @@
 
 ![Image_001](https://dl.dropboxusercontent.com/scl/fi/nt3vnaksrv7uhtjyuvr3s/Image_001.jpg?rlkey=sethqvtl7lfyvcv0ghcld4j6c&st=t0ssnyer&dl=0)
     
-<center>
-<img src="https://dl.dropboxusercontent.com/scl/fi/zljnd6clhpm8py4gvpvj9/Image_002.jpg?rlkey=0xid1iz928atf8v0xhbefuq6i&st=9bzb31z7&dl=0" alt=""></center>
 <a id="titlepage"></a>
 
 ![Image_002](https://dl.dropboxusercontent.com/scl/fi/zljnd6clhpm8py4gvpvj9/Image_002.jpg?rlkey=0xid1iz928atf8v0xhbefuq6i&st=9bzb31z7&dl=0)
