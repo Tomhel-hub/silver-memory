@@ -2,7 +2,8 @@
 
 ![Image_001](https://dl.dropboxusercontent.com/scl/fi/nt3vnaksrv7uhtjyuvr3s/Image_001.jpg?rlkey=sethqvtl7lfyvcv0ghcld4j6c&st=t0ssnyer&dl=0)
     
-
+<center>
+<img src="https://dl.dropboxusercontent.com/scl/fi/zljnd6clhpm8py4gvpvj9/Image_002.jpg?rlkey=0xid1iz928atf8v0xhbefuq6i&st=9bzb31z7&dl=0" alt=""></center>
 <a id="titlepage"></a>
 
 ![Image_002](https://dl.dropboxusercontent.com/scl/fi/zljnd6clhpm8py4gvpvj9/Image_002.jpg?rlkey=0xid1iz928atf8v0xhbefuq6i&st=9bzb31z7&dl=0)
@@ -10,7 +11,7 @@
 
 <a id="Copyright"></a>
 
-<center><p style = "text-align: center;">English translation copyright © 2014 by Yuval Noah Harari <br>  
+<p style = "text-align: center;">English translation copyright © 2014 by Yuval Noah Harari <br>  
 <br>
 Cloth edition published 2014  <br>
 Published simultaneously in the United Kingdom by Harvill Seeker First published in Hebrew in Israel in 2011 by Kinneret,
@@ -56,7 +57,7 @@ a Penguin Random House Company<br>
 <br>
 <br>
 v3.1
-</p></center>
+</p>
 
 
 
