@@ -146,7 +146,7 @@ ________
 
 <h2 style = "text-align: center;"><span style="color:orange">Part One</h2>
 
-<h2 style="text-align: center; color:orange;">Part One</h2>
+<h2 style="text-align: center; color:gray;">The Cognitive Revolution</h2>
 
 
 ![media/image2.jpeg](https://dl.dropboxusercontent.com/scl/fi/s0t490hmvyvpl3q2dxecx/Image_003.jpg?rlkey=e7uoh1bn0cdkpjc7mgh8aalp6&st=sm5s7ati&dl=0)
